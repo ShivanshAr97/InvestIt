@@ -1,0 +1,1 @@
+Please note contract is already integrated in Dapp using `ABI`, `contract.sol` is only uploaded for reference.

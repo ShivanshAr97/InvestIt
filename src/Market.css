@@ -1,0 +1,29 @@
+.row{
+    margin-top: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.card img{
+    margin-bottom:2rem;
+}
+
+.col-lg-6{
+    margin:0 2rem;
+    width:40%;
+    margin-bottom:2rem;
+}
+
+.btn{
+    background-color: lightblue;
+    color: black;
+    padding:1rem;
+    margin-bottom:2rem;
+}

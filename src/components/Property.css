@@ -1,0 +1,40 @@
+.header{
+    width:70%;
+    margin-top:5rem;
+    margin-left:25rem;
+}
+
+.header h1{
+    font-size: 3rem;
+    font-weight: bold;
+}
+.header img{
+    height:300px;
+    width:600px;
+    object-fit: cover;
+}
+
+form{
+    width:70%;
+    margin:0 auto;
+}
+
+.available{
+    margin-top: 2rem;;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.available h1{
+    margin-bottom: 2rem;
+}
+
+.available table{
+    width: 50%;;
+}
+
+.success{
+    text-align: center;
+}

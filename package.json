@@ -1,0 +1,33 @@
+{
+  "name": "investit",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fortawesome/free-regular-svg-icons": "^6.1.2",
+    "@fortawesome/free-solid-svg-icons": "^6.1.2",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "babel-plugin-macros": "^3.1.0",
+    "bootstrap": "^5.0.0-alpha1",
+    "ethers": "^5.7.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.3.0",
+    "vite-plugin-svgr": "^2.2.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.17",
+    "@types/react-dom": "^18.0.6",
+    "@vitejs/plugin-react": "^2.0.1",
+    "vite": "^3.0.7"
+  },
+  "description": "<img src=\"https://user-images.githubusercontent.com/67941652/185938188-8eed4ab8-74a3-4f5e-92ca-412b7ddd5b64.png\" height=\"400\">",
+  "main": "vite.config.js",
+  "author": "",
+  "license": "ISC"
+}
