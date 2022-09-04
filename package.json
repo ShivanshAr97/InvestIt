@@ -29,7 +29,6 @@
     "@vitejs/plugin-react": "^2.0.1",
     "vite": "^3.0.7"
   },
-  "description": "<img src=\"https://user-images.githubusercontent.com/67941652/185938188-8eed4ab8-74a3-4f5e-92ca-412b7ddd5b64.png\" height=\"400\">",
   "main": "vite.config.js",
   "author": "",
   "license": "ISC"
