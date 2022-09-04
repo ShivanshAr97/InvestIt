@@ -5,8 +5,8 @@ import Security from "./Security";
 import Property from "./components/Property";
 import Portfolio from "./Portfolio";
 import {BrowserRouter, Routes, Route} from "react-router-dom";
-import Header from "./Components/Header";
-import Footer from "./Components/Footer";
+import Header from "./components/Header";
+import Footer from "./components/Footer";
 
 const App = ()=>{
     return (
