@@ -1,23 +1,19 @@
-# InvestIt
+# Ur-Hackathon
+
+A project named InvestIt has been made for this hackathon. <br/>
 InvestIt helps you create tokens to invest in real estate. Now there is no worry of high capital requirement to invest in real estate
 
-## To invest
-* Please install metamask wallet in your browser first.
-* Change the network from `Ethereum Mainnet` to `Ropsten Test Network`
-* That's it, you're good to go!
-* Happy Investing!
+# Website Link
 
-## To Build:
-* Clone this github repository.
-* Go to the cloned folder and open your terminal.
-* Run the following commands
-### Install Dependencies
-```bash
-npm install
-```
+https://investit-d710c9.spheron.app/ <br/>
+https://investit.vercel.app/
 
-### Run Dev Server
-```bash
-npm run dev
-```
-# Ur-Hackathon
+# Services
+
+- Investing in hotels and apartments
+- Preventing the large cost of taxes
+- Using cryptocurrency, thus no fraud can take place
+
+# Logo
+<img width="185" alt="Logo" src="https://user-images.githubusercontent.com/96040322/200383254-aed1822c-c72b-432f-a23a-a604e964e9ad.png">
+
