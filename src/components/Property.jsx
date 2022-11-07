@@ -51,10 +51,6 @@ const Property = (props)=>{
             alert("Install Metamask");
          }
          const provider = new ethers.providers.Web3Provider(window.ethereum);
-       /*  const contractInstance = new ethers.Contract("0x4503dfde7d531a8514d417178de77336f5b79be2",tokenabi,provider);
-
-         const getData = await contractInstance.display();
-         console.log(getData);*/
 
          await provider.send("eth_requestAccounts", []);
          const signer = await provider.getSigner();
@@ -74,7 +70,7 @@ const Property = (props)=>{
          
     }
 
-    return (<div>
+    return (<>
         <div className="header">
              <h1>{props.name}</h1>
              <p>{props.des}</p>
@@ -118,7 +114,7 @@ const Property = (props)=>{
           <button type="submit" class="btn btn-primary" >Buy now!</button>
         </form>
          {message}
-    </div>)
+    </>)
 }
 
 export default Property;
